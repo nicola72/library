@@ -1,0 +1,20 @@
+{
+  "name": "nicola72/library",
+  "description": "utilities for applications",
+  "minimum-stability": "stable",
+  "version": "1.0",
+  "require": {
+    "php": "^7.2",
+    "ext-pdo": "*"
+  },
+  "autoload": {
+    "classmap": ["src/"]
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "nicola tamburini",
+      "email": "nicola.tamburini@inyourlife.info"
+    }
+  ]
+}
